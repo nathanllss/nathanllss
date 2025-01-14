@@ -2,7 +2,7 @@
 
 #### Aspiring Back-end developer, passionate with programming.
 
-🔖 Chemical Engineering student at [UFMG](https://www.deq.ufmg.br/)<br/>
+🔖 Software Engineering student<br/>
 ### 📚 Always learning more about:
 
 
